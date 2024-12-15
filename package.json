@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:backend": "node backend/server.js"
+    "start:backend": "node backend/server.js",
+    "build": "echo '1'"
   },
   "keywords": [],
   "author": "",
